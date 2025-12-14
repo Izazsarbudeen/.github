@@ -114,7 +114,7 @@
 ![Izaz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Izazsarbudeen&show_icons=true&theme=tokyonight)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=Izazsarbudeen&theme=tokyonight&hide_border=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Izazsarbudeen&layout=compact&theme=tokyonight)
-https://github-profile-trophy.vercel.app/izazsarbudeen=ryo-ma&rank=S,AAA
+
 
 ---
 
